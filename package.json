@@ -2,7 +2,7 @@
   "name": "create-unit-test--testing-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "simpleCalculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
